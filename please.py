@@ -2,6 +2,7 @@ import os, sys
 
 print ("\033[1;32mMasukan UserName&Password:)")
 print ("\033[1;31;1mMauTauPasswordnyaContactWaDuluDong085779515200")
+print ("\033[1;31;1mScript Ini Hanya Untuk Umur 18 Keatas!!!")
 username = 'MRTAMFANX'
 password = 'ADMINTAMFAN'
 
